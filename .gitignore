@@ -1,3 +1,4 @@
 data/
 resnet/
 *.pk
+*.pickle
